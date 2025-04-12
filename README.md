@@ -1,6 +1,5 @@
 <h1 align="center">Zdravím 👋, jsem Ondřej Lukeš</h1>
 <h3 align="center">Vývojář z Česka</h3>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy">[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)</a> </p>
 
 - 🔭 Právě pracuji na [interpreteru progrmamovacího jazyka](https://github.com/Nockiest/Programming-Language-Parser)
 
