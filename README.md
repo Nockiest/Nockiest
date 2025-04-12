@@ -15,7 +15,7 @@
 <h3 align="left">Connect with me:</h3> 
 <p align="left"> 
 <a href="https://codepen.io/Nockiest" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@nockiest" height="30" width="40" /></a> 
-<a href="https://www.linkedin.com/in/ond%C5%99ej-lukes-197046273/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ondřej lukeš" height="30" width="40" /></a> 
+<a href="https://www.linkedin.com/in/ond%C5%99ej-lukes-197046273" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ondřej lukeš" height="30" width="40" /></a> 
 <a href="https://medium.com/@andwebdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@andrew lukes" height="30" width="40" /></a> 
 <a href="https://www.youtube.com/channel/UCyHXnWQWCdoPa5-pMa09zoA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@ondrejlukes7531" height="30" width="40" /></a> </p> 
 
