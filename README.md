@@ -39,8 +39,8 @@
        style="cursor: pointer;" onclick="window.open('https://www.python.org', '_blank')"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"
        style="cursor: pointer;" onclick="window.open('https://reactjs.org/', '_blank')"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"
-       style="cursor: pointer;" onclick="window.open('https://www.rust-lang.org', '_blank')"/>
+ <img src="https://raw.githubusercontent.com/rust-lang/rust-artwork/master/logo/rust-logo-128x128.png" alt="Rust Programming Language" width="40" height="40" style="cursor: pointer;" onclick="window.open('https://www.rust-lang.org', '_blank')" />
+
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"
        style="cursor: pointer;" onclick="window.open('https://www.typescriptlang.org/', '_blank')"/>
 </p>
